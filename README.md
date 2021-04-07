@@ -29,7 +29,7 @@
 
 <h3 align="left">Github stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lostefra&show_icons=true&locale=en&layout=compact" alt="lostefra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lostefra&show_icons=true&locale=en&layout=compact" alt="lostefra" style="margin:1em;"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lostefra&show_icons=true&locale=en" alt="lostefra" /></p>
 
