@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [anonymization tools](https://github.com/Lostefra/DocxAnonymizer-core)
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 👨‍💻 All of my projects are available on my [Github](https://github.com/Lostefra)
 
