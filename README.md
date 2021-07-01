@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/lorenzo-mario-amorosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lorenzo-mario-amorosa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11870155/lostefra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="lostefra" height="30" width="40" /></a>
-<a href="https://instagram.com/lorenzo_mario_amorosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lorenzo_mario_amorosa" height="30" width="40" /></a>
+<a href="https://instagram.com/lorenzo_mario_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lorenzo_mario_amorosa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
