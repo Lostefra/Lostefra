@@ -11,7 +11,7 @@
 
 - 💬 Ask me about anything, I'm happy to help
 
-- 📫 How to reach me: lorenzomario.amorosa@studio.unibo.it
+- 📫 How to reach me: lorenzomario.amorosa@unibo.it
 
 - 📄 Know about my experiences: [CV / Résumé](https://docs.google.com/document/d/1zkIMZMSIkRN_5s7iQmImOThlqtYkrWm2UD7cc4OlB5U/edit?usp=sharing)
 
