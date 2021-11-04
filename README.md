@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm Lorenzo</h1>
-<h3 align="center">A passionate Artificial Intelligence student from Italy</h3>
+<h3 align="center">PhD Fellow in ET-IT at Alma Mater Studiorum – Università di Bologna (Italy), passionate about Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lostefra&label=Profile%20views&color=0e75b6&style=flat" alt="lostefra" /> </p>
 
