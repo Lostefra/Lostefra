@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lostefra&label=Profile%20views&color=0e75b6&style=flat" alt="lostefra" /> </p>
 
-- 🔭 I’m currently working on [anonymization tools](https://github.com/Lostefra/DocxAnonymizer-core)
+- 🔭 I’m currently working on **Multi Agent Reinforcement Learning** and **Industrial IoT** applications
 
-- 🌱 I’m currently learning **Reinforcement Learning**
-
-- 👨‍💻 All of my projects are available on my [Github](https://github.com/Lostefra)
-
-- 💬 Ask me about anything, I'm happy to help
+- 👨‍💻 Most of my projects are available on my [Github](https://github.com/Lostefra)
 
 - 📫 How to reach me: lorenzomario.amorosa@unibo.it
 
