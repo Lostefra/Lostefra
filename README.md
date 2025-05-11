@@ -1,27 +1,33 @@
-<h1 align="center">Hi everyone 👋, I'm Lorenzo</h1>
-<h3 align="center">PhD Fellow in ET-IT at Alma Mater Studiorum – Università di Bologna (Italy), passionate about Artificial Intelligence</h3>
+<h2 align="left">Hey, I'm Lorenzo 👋</h2>
+<h3 align="left">Postdoctoral Researcher at Alma Mater Studiorum – Università di Bologna, Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lostefra&label=Profile%20views&color=0e75b6&style=flat" alt="lostefra" /> </p>
+<h3 align="left">My research interests lie in the intersection of deep learning and wireless communication networks.</h3>
 
-- 🔭 I’m currently working on **Multi Agent Reinforcement Learning** and **Industrial IoT** applications
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=lostefra&label=Profile%20views&color=0e75b6&style=flat" alt="lostefra" /> </p>-->
 
-- 👨‍💻 Most of my projects are available on my [Github](https://github.com/Lostefra)
+<!-- - 🔭 My research interests are related to **Deep Learning for Wireless Communication Networks**. -->
 
-- 📫 How to reach me: lorenzomario.amorosa@unibo.it
+<!--- 👨‍💻 Most of my projects are available on my [Github](https://github.com/Lostefra)-->
 
-- 📄 Know about my experiences: [CV / Résumé](https://docs.google.com/document/d/1zkIMZMSIkRN_5s7iQmImOThlqtYkrWm2UD7cc4OlB5U/edit?usp=sharing)
+<!--- 📫 How to reach me: lorenzomario.amorosa@unibo.it-->
 
-- ⚡ Fun fact: I swim since I was 5 y/o but I'm good only at backstroke
+<!--- 📄 Know about my experiences: [CV / Résumé](https://docs.google.com/document/d/1zkIMZMSIkRN_5s7iQmImOThlqtYkrWm2UD7cc4OlB5U/edit?usp=sharing)-->
 
-<h3 align="left">Connect with me:</h3>
+<!--- ⚡ Fun fact: I swim since I was 5 y/o but I'm good only at backstroke-->
+
+<h3 align="left">Connect with me on <a href="https://linkedin.com/in/lorenzo-mario-amorosa" target="blank">LinkedIn</a>!</h3>
 <p align="left">
+  <!--
 <a href="https://linkedin.com/in/lorenzo-mario-amorosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lorenzo-mario-amorosa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11870155/lostefra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="lostefra" height="30" width="40" /></a>
+  -->
+<!--<a href="https://stackoverflow.com/users/11870155/lostefra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="lostefra" height="30" width="40" /></a>
 <a href="https://instagram.com/lorenzo_mario_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lorenzo_mario_amorosa" height="30" width="40" /></a>
-</p>
+--></p>
 
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+-->
 
 <!--
 <h3 align="left">Github stats:</h3>
